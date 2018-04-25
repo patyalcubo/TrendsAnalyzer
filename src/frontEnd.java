@@ -63,7 +63,7 @@ public class frontEnd {
 				}
 			}
 
-			ArrayList<trendTheme> listSorted = new ArrayList<trendTheme>();
+			//ArrayList<trendTheme> listSorted = new ArrayList<trendTheme>();
 			Collections.sort(list);
 			System.out.println(list.subList(0, 10));
 			
